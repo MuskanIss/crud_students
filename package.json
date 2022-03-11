@@ -1,0 +1,17 @@
+{
+  "name": "studentsCRUD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "json-server --watch users.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.15"
+  }
+}
